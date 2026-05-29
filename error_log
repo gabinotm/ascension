@@ -1,0 +1,302 @@
+[08-May-2026 15:59:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:18
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(18): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 18
+[08-May-2026 17:29:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:40
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(40): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 40
+[08-May-2026 17:29:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:40
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(40): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 40
+[08-May-2026 17:29:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:40
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(40): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 40
+[08-May-2026 17:31:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:30
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(30): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 30
+[08-May-2026 17:31:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:30
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(30): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 30
+[08-May-2026 17:31:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:30
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(30): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 30
+[08-May-2026 17:32:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:30
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(30): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 30
+[08-May-2026 17:32:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:30
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(30): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 30
+[08-May-2026 17:35:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:35:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:35:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:38:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(129): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:40:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(135): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:43:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(135): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:43:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(135): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:43:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:38
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(38): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/dashboard.php(135): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 38
+[08-May-2026 17:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategoria_id' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/modulo.php:71
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/modulo.php(71): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/modulo.php on line 71
+[08-May-2026 17:48:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategoria_id' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/modulo.php:71
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/modulo.php(71): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/modulo.php on line 71
+[08-May-2026 17:48:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategoria_id' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/modulo.php:71
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/modulo.php(71): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/modulo.php on line 71
+[08-May-2026 18:27:41 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:41 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:41 UTC] PHP Warning:  include(): Failed opening 'vistas/default.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:44 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:44 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:44 UTC] PHP Warning:  include(): Failed opening 'vistas/default.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:45 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:45 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:27:45 UTC] PHP Warning:  include(): Failed opening 'vistas/default.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:28:34 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:28:34 UTC] PHP Warning:  include(vistas/default.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[08-May-2026 18:28:34 UTC] PHP Warning:  include(): Failed opening 'vistas/default.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/modulo.php on line 162
+[09-May-2026 18:26:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sisapp/public_html/colegio-ascension/config/conexion.php:9
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/config/conexion.php(9): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'web_institucion...')
+#1 /home/sisapp/public_html/colegio-ascension/login.php(4): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/config/conexion.php on line 9
+[09-May-2026 18:26:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sisapp/public_html/colegio-ascension/config/conexion.php:9
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/config/conexion.php(9): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'web_institucion...')
+#1 /home/sisapp/public_html/colegio-ascension/login.php(4): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/config/conexion.php on line 9
+[09-May-2026 18:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sisapp/public_html/colegio-ascension/config/conexion.php:9
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/config/conexion.php(9): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'web_institucion...')
+#1 /home/sisapp/public_html/colegio-ascension/login.php(4): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/config/conexion.php on line 9
+[11-May-2026 02:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esDocente() in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:166
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(6): include()
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 166
+[11-May-2026 02:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esDocente() in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:166
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(6): include()
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 166
+[11-May-2026 02:38:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esDocente() in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:166
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/modulo.php(7): include()
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 166
+[11-May-2026 02:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esDocente() in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:166
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/modulo.php(7): include()
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 166
+[11-May-2026 04:50:56 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:50:56 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:50:56 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:02 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:51:02 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:02 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:03 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:51:03 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:03 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:04 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:51:04 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:04 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:08 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:51:08 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:51:08 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:52:55 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:52:55 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:52:55 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:05 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:53:05 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:05 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:09 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:53:09 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:09 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:13 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:53:13 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:13 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:14 UTC] PHP Warning:  Undefined variable $queryEventos in /home/sisapp/public_html/colegio-ascension/index.php on line 46
+[11-May-2026 04:53:14 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 04:53:14 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/sisapp/public_html/colegio-ascension/index.php:44
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/index.php(44): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/index.php on line 44
+[11-May-2026 06:03:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:03:48 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:03:49 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:03:50 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:04:00 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:04:01 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:04:02 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:28:20 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:36:00 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 06:38:52 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 07:18:30 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 29
+[11-May-2026 07:23:29 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:32 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:33 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:33 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:34 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:35 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:35 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 3
+[11-May-2026 07:23:39 UTC] PHP Warning:  require_once(../config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 4
+[11-May-2026 07:23:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/conexion.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/dashboard.php on line 4
+[11-May-2026 18:34:40 UTC] PHP Warning:  Undefined variable $driveID in /home/sisapp/public_html/colegio-ascension/modulo.php on line 429
+[11-May-2026 18:55:22 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:55:24 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:55:27 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:56:27 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:57:12 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:57:13 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:57:14 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:57:15 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:57:16 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 18:57:18 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/modulo.php on line 610
+[11-May-2026 19:43:43 UTC] PHP Parse error:  Unclosed '{' on line 213 in /home/sisapp/public_html/colegio-ascension/modulo.php on line 1113
+[11-May-2026 19:43:49 UTC] PHP Parse error:  Unclosed '{' on line 213 in /home/sisapp/public_html/colegio-ascension/modulo.php on line 1113
+[11-May-2026 19:43:50 UTC] PHP Parse error:  Unclosed '{' on line 213 in /home/sisapp/public_html/colegio-ascension/modulo.php on line 1113

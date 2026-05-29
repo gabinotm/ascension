@@ -1,0 +1,48 @@
+[11-May-2026 20:03:39 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 3
+[11-May-2026 20:03:39 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 3
+[11-May-2026 20:03:39 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 3
+[11-May-2026 20:03:39 UTC] PHP Warning:  include(config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 5
+[11-May-2026 20:03:39 UTC] PHP Warning:  include(config/conexion.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 5
+[11-May-2026 20:03:39 UTC] PHP Warning:  include(): Failed opening 'config/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 5
+[11-May-2026 20:03:39 UTC] PHP Warning:  Undefined variable $conn in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 9
+[11-May-2026 20:03:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/sisapp/public_html/colegio-ascension/includes/search.php:8
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/search.php(8): mysqli_real_escape_string(NULL, 'canva')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search.php on line 8
+[11-May-2026 20:19:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 55
+[11-May-2026 20:19:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 55
+[11-May-2026 20:19:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 55
+[11-May-2026 20:19:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 55
+[11-May-2026 20:19:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 55
+[11-May-2026 20:22:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 55
+[11-May-2026 20:25:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 85
+[11-May-2026 20:25:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 85
+[11-May-2026 20:25:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/sisapp/public_html/colegio-ascension/includes/search_live.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/search_live.php on line 85

@@ -1,0 +1,622 @@
+[08-May-2026 00:33:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 00:33:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 03:18:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/herramientas.php on line 70
+[08-May-2026 03:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/herramientas.php on line 100
+[08-May-2026 03:20:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/anuncios.php on line 67
+[08-May-2026 03:20:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/anuncios.php on line 67
+[08-May-2026 03:20:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/anuncios.php on line 67
+[08-May-2026 03:21:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/anuncios.php on line 67
+[08-May-2026 14:28:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 14:30:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 14:30:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 14:34:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 14:45:01 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:20 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:45:31 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 14:50:31 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 94
+[08-May-2026 15:16:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 15:20:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 15:20:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 86
+[08-May-2026 15:21:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 86
+[08-May-2026 15:21:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 135
+[08-May-2026 15:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 49
+[08-May-2026 15:22:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 49
+[08-May-2026 15:59:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation '<>' in /home/sisapp/public_html/colegio-ascension/includes/navbar.php:18
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/includes/navbar.php(18): mysqli_query(Object(mysqli), '\r\n\r\nSELECT *\r\n\r...')
+#1 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(4): include('/home/sisapp/pu...')
+#2 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 18
+[08-May-2026 17:52:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/header.php on line 4
+[08-May-2026 17:52:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 4
+[08-May-2026 17:52:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/admin/publicar.php:1) in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 9
+[08-May-2026 17:54:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/header.php on line 4
+[08-May-2026 17:54:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 4
+[08-May-2026 17:54:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/admin/publicar.php:1) in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 9
+[08-May-2026 17:56:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/header.php on line 4
+[08-May-2026 17:56:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 4
+[08-May-2026 17:56:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/admin/publicar.php:1) in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 9
+[08-May-2026 17:56:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/header.php on line 4
+[08-May-2026 17:56:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 4
+[08-May-2026 17:56:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/admin/publicar.php:1) in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 9
+[08-May-2026 17:56:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/header.php on line 4
+[08-May-2026 17:56:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 5
+[08-May-2026 17:56:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/admin/publicar.php:1) in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 11
+[08-May-2026 17:56:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/header.php on line 4
+[08-May-2026 17:56:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 5
+[08-May-2026 17:56:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/admin/publicar.php:1) in /home/sisapp/public_html/colegio-ascension/includes/auth.php on line 11
+[08-May-2026 18:02:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'publicaciones.subcategoria_id' in 'ON' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:193
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(193): mysqli_query(Object(mysqli), '\r\n\r\nSELECT publ...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 193
+[08-May-2026 18:02:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'publicaciones.subcategoria_id' in 'ON' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:193
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(193): mysqli_query(Object(mysqli), '\r\n\r\nSELECT publ...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 193
+[08-May-2026 18:02:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'publicaciones.subcategoria_id' in 'ON' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:193
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(193): mysqli_query(Object(mysqli), '\r\n\r\nSELECT publ...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 193
+[08-May-2026 18:03:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'publicaciones.subcategoria_id' in 'ON' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:197
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(197): mysqli_query(Object(mysqli), '\r\n\r\nSELECT publ...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 197
+[08-May-2026 18:07:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 166
+[08-May-2026 18:34:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`herramientas`, CONSTRAINT `herramientas_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 18:34:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`herramientas`, CONSTRAINT `herramientas_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 18:38:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`herramientas`, CONSTRAINT `herramientas_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 18:41:31 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:49 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:51 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:52 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:54 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:55 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:56 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:41:57 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting ":" in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 94
+[08-May-2026 18:42:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 41
+[08-May-2026 18:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 97
+[08-May-2026 18:52:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`anuncios`, CONSTRAINT `fk_categoria_anuncio` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 18:52:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`anuncios`, CONSTRAINT `fk_categoria_anuncio` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 18:52:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 116
+[08-May-2026 18:52:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:38) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 116
+[08-May-2026 18:52:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`anuncios`, CONSTRAINT `fk_categoria_anuncio` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 18:53:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`sisapp_web_institucional`.`anuncios`, CONSTRAINT `fk_categoria_anuncio` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:92
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(92): mysqli_query(Object(mysqli), 'DELETE FROM cat...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 92
+[08-May-2026 19:05:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategorias.estado' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:295
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(295): mysqli_query(Object(mysqli), '\r\n\r\nSELECT subc...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 295
+[08-May-2026 19:05:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategorias.estado' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:295
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(295): mysqli_query(Object(mysqli), '\r\n\r\nSELECT subc...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 295
+[08-May-2026 19:05:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategorias.estado' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:295
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(295): mysqli_query(Object(mysqli), '\r\n\r\nSELECT subc...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 295
+[08-May-2026 19:06:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'subcategorias.estado' in 'WHERE' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:295
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(295): mysqli_query(Object(mysqli), '\r\n\r\nSELECT subc...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 295
+[08-May-2026 19:32:46 UTC] PHP Warning:  Undefined variable $resultCategorias in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 85
+[08-May-2026 19:32:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:85
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(85): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 85
+[08-May-2026 19:32:52 UTC] PHP Warning:  Undefined variable $resultCategorias in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 85
+[08-May-2026 19:32:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/sisapp/public_html/colegio-ascension/admin/categorias.php:85
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/categorias.php(85): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 85
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 809
+[08-May-2026 19:45:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 821
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 20:51:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[08-May-2026 21:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:56:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 13:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[09-May-2026 14:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 775
+[11-May-2026 02:15:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:10) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 107
+[11-May-2026 02:15:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sisapp/public_html/colegio-ascension/includes/header.php:10) in /home/sisapp/public_html/colegio-ascension/admin/usuarios.php on line 61
+[11-May-2026 02:39:49 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:22) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:39:54 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:22) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:39:57 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:22) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:40:01 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:22) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:41:20 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:24) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:41:34 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:24) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:41:45 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:24) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 02:43:20 UTC] PHP Fatal error:  Cannot redeclare esAdministrador() (previously declared in /home/sisapp/public_html/colegio-ascension/includes/permisos.php:24) in /home/sisapp/public_html/colegio-ascension/includes/navbar.php on line 14
+[11-May-2026 03:07:48 UTC] PHP Parse error:  Unclosed '{' on line 414 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1655
+[11-May-2026 03:07:52 UTC] PHP Parse error:  Unclosed '{' on line 414 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1655
+[11-May-2026 03:09:52 UTC] PHP Parse error:  Unclosed '{' on line 417 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1658
+[11-May-2026 03:09:54 UTC] PHP Parse error:  Unclosed '{' on line 417 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1658
+[11-May-2026 03:11:29 UTC] PHP Parse error:  Unclosed '{' on line 414 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1695
+[11-May-2026 03:14:11 UTC] PHP Parse error:  Unclosed '{' on line 504 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1785
+[11-May-2026 03:14:17 UTC] PHP Parse error:  Unclosed '{' on line 504 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1785
+[11-May-2026 03:14:31 UTC] PHP Parse error:  Unclosed '{' on line 504 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1785
+[11-May-2026 03:16:22 UTC] PHP Parse error:  Unclosed '{' on line 506 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1787
+[11-May-2026 03:19:01 UTC] PHP Parse error:  Unclosed '{' on line 506 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1788
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 601
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 632
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 650
+[11-May-2026 03:21:35 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 650
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 658
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 670
+[11-May-2026 03:21:35 UTC] PHP Deprecated:  nl2br(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 670
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 676
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 690
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 704
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 738
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 750
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 766
+[11-May-2026 03:21:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 16
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 784
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 817
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 836
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 855
+[11-May-2026 03:21:35 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 855
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 875
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 883
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 924
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 982
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1006
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1030
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1071
+[11-May-2026 03:21:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 1123
+[11-May-2026 03:36:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'publicaciones.usuario_id' in 'ON' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:364
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(364): mysqli_query(Object(mysqli), '\r\n\r\nSELECT subc...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 364
+[11-May-2026 03:38:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'publicaciones.usuario_id' in 'ON' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:364
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(364): mysqli_query(Object(mysqli), '\r\n\r\nSELECT subc...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 364
+[11-May-2026 03:40:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usuarios.nombres' in 'SELECT' in /home/sisapp/public_html/colegio-ascension/admin/publicar.php:396
+Stack trace:
+#0 /home/sisapp/public_html/colegio-ascension/admin/publicar.php(396): mysqli_query(Object(mysqli), '\r\n\r\nSELECT publ...')
+#1 {main}
+  thrown in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 396
+[11-May-2026 17:16:51 UTC] PHP Parse error:  Unclosed '{' on line 379 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1100
+[11-May-2026 17:16:59 UTC] PHP Parse error:  Unclosed '{' on line 379 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1100
+[11-May-2026 17:17:35 UTC] PHP Parse error:  Unclosed '{' on line 379 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1100
+[11-May-2026 17:17:37 UTC] PHP Parse error:  Unclosed '{' on line 379 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1100
+[11-May-2026 17:17:38 UTC] PHP Parse error:  Unclosed '{' on line 379 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1100
+[11-May-2026 17:17:41 UTC] PHP Parse error:  Unclosed '{' on line 379 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1100
+[11-May-2026 17:17:42 UTC] PHP Parse error:  Unclosed '{' on line 405 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1126
+[11-May-2026 17:17:45 UTC] PHP Parse error:  Unclosed '{' on line 405 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1126
+[11-May-2026 17:17:47 UTC] PHP Parse error:  Unclosed '{' on line 405 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1126
+[11-May-2026 17:19:04 UTC] PHP Parse error:  Unclosed '{' on line 464 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1185
+[11-May-2026 17:19:17 UTC] PHP Parse error:  Unclosed '{' on line 464 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1185
+[11-May-2026 17:20:41 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:20:42 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:20:43 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:20:45 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:20:46 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:20:49 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:20:50 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:23:00 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:23:02 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:23:04 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:23:05 UTC] PHP Parse error:  Unmatched '}' in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 172
+[11-May-2026 17:31:20 UTC] PHP Parse error:  Unclosed '{' on line 389 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1049
+[11-May-2026 17:31:54 UTC] PHP Parse error:  Unclosed '{' on line 389 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1049
+[11-May-2026 17:33:38 UTC] PHP Parse error:  Unclosed '{' on line 389 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1049
+[11-May-2026 17:33:39 UTC] PHP Parse error:  Unclosed '{' on line 389 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1049
+[11-May-2026 17:33:42 UTC] PHP Parse error:  Unclosed '{' on line 398 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1057
+[11-May-2026 17:33:43 UTC] PHP Parse error:  Unclosed '{' on line 398 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1057
+[11-May-2026 17:33:44 UTC] PHP Parse error:  Unclosed '{' on line 398 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1057
+[11-May-2026 17:33:47 UTC] PHP Parse error:  Unclosed '{' on line 398 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1057
+[11-May-2026 17:33:49 UTC] PHP Parse error:  Unclosed '{' on line 398 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1057
+[11-May-2026 17:33:50 UTC] PHP Parse error:  Unclosed '{' on line 398 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1057
+[11-May-2026 17:35:32 UTC] PHP Parse error:  Unclosed '{' on line 582 in /home/sisapp/public_html/colegio-ascension/admin/categorias.php on line 1030
+[11-May-2026 18:26:26 UTC] PHP Parse error:  Unclosed '{' on line 642 in /home/sisapp/public_html/colegio-ascension/admin/publicar.php on line 2218
+[11-May-2026 21:13:54 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:13:54 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:13:54 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:14:30 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:14:30 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:14:30 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:15:26 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:15:26 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:15:26 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:16 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:16 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:16 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:22 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:22 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:22 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:44 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:44 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:19:44 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:20:50 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:20:50 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:20:50 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:20:52 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:20:52 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:20:52 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:27 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:27 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:27 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:53 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:53 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:53 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:56 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:56 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:21:56 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:22:44 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:22:44 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:22:44 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:22:46 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:22:46 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:22:46 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:23 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:23 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:23 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:26 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:26 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:26 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:27 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:27 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:27 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:29 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:29 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:29 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:32 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:32 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:32 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:36 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:36 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:36 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:43 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:43 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:23:43 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:24:16 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:24:16 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:24:16 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:25:23 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:25:23 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:25:23 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:25:41 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:25:41 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:25:41 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:54 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:54 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:54 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:57 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:57 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:57 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:59 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:59 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:27:59 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:00 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:00 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:00 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:01 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:01 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:01 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:03 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:03 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:03 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:06 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:06 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:06 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:16 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:16 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:28:16 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:31:40 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:31:40 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:31:40 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:31:49 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:31:49 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:31:49 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:38 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:38 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:38 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:39 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:39 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:39 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:41 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:41 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:41 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:44 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:44 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:44 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:50 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:50 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:32:50 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:49 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:49 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:49 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:51 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:51 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:51 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:53 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:53 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:53 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:55 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:55 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:55 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:56 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:56 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:35:56 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:17 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:17 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:17 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:19 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:19 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:19 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:22 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:22 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:22 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:24 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:24 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:24 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:26 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:26 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:26 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:27 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:27 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:27 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:29 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:29 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:29 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:32 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:32 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:32 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:34 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:34 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:39:34 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:50:28 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:50:28 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:50:28 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:50:57 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:50:57 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:50:57 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:52:05 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:52:05 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
+[11-May-2026 21:52:05 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sisapp/public_html/colegio-ascension/includes/footer.php on line 1
