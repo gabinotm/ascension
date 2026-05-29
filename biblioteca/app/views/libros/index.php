@@ -1,105 +1,106 @@
 <?php require '../app/views/layouts/header.php'; ?>
+
 <?php require '../app/views/layouts/sidebar.php'; ?>
 
-<div class="content">
+<div class="content crud-page libros-page">
 
 
-    <!DOCTYPE html>
-    <html>
-
-    <head>
-
-        <meta charset="UTF-8">
-
-        <title>Libros</title>
-
-    </head>
-
-    <body>
-
-        <div class="page-header">
+   <div class="page-header">
 
     <h1>Libros</h1>
 
-    <a href="?url=lectores/create" class="btn">
+    <div class="acciones-header">
+
+        <a
+        href="?url=scanner&destino=libros"
+        class="btn btn-success">
+
+        📷 Escanear Libro
+
+        </a>
+
+        <a
+        href="?url=libros/create"
+        class="btn btn-warning">
+
         Nuevo Libro
-    </a>
+
+        </a>
+
+    </div>
 
 </div>
-        <input
-            type="text"
-            id="buscar"
-            placeholder="Buscar libro..."
-            style="padding:10px; width:300px; margin:15px 0;">
-        <table>
+    <div class="search-box">
+        <input type="text" id="buscar" placeholder="Buscar libro..." class="form-control">
 
-            <thead>
-                <tr>
-                    <th>ID</th>
-                    <th>ISBN</th>
-                    <th>Título</th>
-                    <th>Autor</th>
-                    <th>Stock</th>
-                    <th>Acciones</th>
-                </tr>
-            </thead>
+    </div>
+    <table class="table">
 
-            <tbody>
-                <?php
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>ISBN</th>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Stock</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <?php
                 $libros = $libros ?? [];
                 ?>
-                <?php foreach ($libros as $libro): ?>
+            <?php foreach ($libros as $libro): ?>
 
-                    <tr>
+            <tr>
 
-                        <td><?= $libro['id'] ?></td>
-                        <td><?= $libro['isbn'] ?></td>
-                        <td><?= $libro['titulo'] ?></td>
-                        <td><?= $libro['autor'] ?></td>
+                <td><?= $libro['id'] ?></td>
+                <td><?= $libro['isbn'] ?></td>
+                <td><?= $libro['titulo'] ?></td>
+                <td><?= $libro['autor'] ?></td>
 
-                        <td>
-                            <?= $libro['cantidad_disponible'] ?>
-                            /
-                            <?= $libro['cantidad_total'] ?>
-                        </td>
+                <td>
+                    <?= $libro['cantidad_disponible'] ?>
+                    /
+                    <?= $libro['cantidad_total'] ?>
+                </td>
+                <div class="acciones">
+                    <td>
+                        <a href="?url=libros/edit&id=<?= $libro['id'] ?> " class="btn btn-primary">
+                            Editar
+                        </a>
 
-                        <td>
-                            <a href="?url=libros/edit&id=<?= $libro['id'] ?>">
-                                Editar
-                            </a>
+                        <a href="?url=libros/delete&id=<?= $libro['id'] ?>"
+                            onclick="return confirm('¿Eliminar este libro?')" class="btn btn-danger">
+                            Eliminar
+                        </a>
+                    </td>
+                    </ </tr>
 
-                            <a
-                                href="?url=libros/delete&id=<?= $libro['id'] ?>"
-                                onclick="return confirm('¿Eliminar este libro?')">
-                                Eliminar
-                            </a>
-                        </td>
+                    <?php endforeach; ?>
 
-                    </tr>
+        </tbody>
 
-                <?php endforeach; ?>
-
-            </tbody>
-
-        </table>
+    </table>
 </div>
 <script>
-    const buscar = document.getElementById("buscar");
+const buscar = document.getElementById("buscar");
 
-    buscar.addEventListener("keyup", function() {
+buscar.addEventListener("keyup", function() {
 
-        let texto = this.value.toLowerCase();
+    let texto = this.value.toLowerCase();
 
-        document.querySelectorAll("tbody tr").forEach(fila => {
+    document.querySelectorAll("tbody tr").forEach(fila => {
 
-            fila.style.display =
-                fila.textContent.toLowerCase().includes(texto) ?
-                "" :
-                "none";
-
-        });
+        fila.style.display =
+            fila.textContent.toLowerCase().includes(texto) ?
+            "" :
+            "none";
 
     });
+
+});
 </script>
 <?php require '../app/views/layouts/footer.php'; ?>
 </body>

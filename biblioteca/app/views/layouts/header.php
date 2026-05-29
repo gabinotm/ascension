@@ -10,9 +10,11 @@
     <title>Biblioteca</title>
 
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
 
 </head>
 
-<body>
+<body class="wrapper">
 
 <div class="layout">

@@ -1,0 +1,45 @@
+.prestamos-page{
+
+
+.page-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:25px;
+}
+
+.search-box{
+    margin-bottom:20px;
+}
+
+.search-box input{
+    width:350px;
+}
+
+.acciones{
+    display:flex;
+    gap:6px;
+    flex-wrap:wrap;
+}
+
+.libro-columna{
+    max-width:250px;
+    word-break:break-word;
+}
+
+.estado{
+    text-align:center;
+}
+
+
+}
+.form-card{
+    background:#fff;
+
+    border-radius:12px;
+
+    padding:25px;
+
+    box-shadow:
+    0 3px 12px rgba(0,0,0,.08);
+}

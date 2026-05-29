@@ -3,16 +3,6 @@
 
 <div class="content">
     
-<!DOCTYPE html>
-<html>
-<head>
-
-    <meta charset="UTF-8">
-
-    <title>Nuevo Libro</title>
-
-</head>
-<body>
 
 <h1>Registrar Libro</h1>
 
@@ -20,7 +10,25 @@
 
     <p>
         <label>ISBN</label><br>
+<div class="isbn-group">
 
+        <input
+        type="text"
+        name="isbn"
+        id="isbn"
+        class="form-control"
+        required>
+
+        <button
+        type="button"
+        id="btn-escanear"
+        class="btn btn-success">
+
+        📷 Escanear
+
+        </button>
+
+    </div>
         <input
             type="text"
             name="isbn"

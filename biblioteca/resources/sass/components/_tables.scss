@@ -1,0 +1,35 @@
+.table{
+    width:100%;
+
+    background:#fff;
+
+    border-collapse:collapse;
+
+    border-radius:12px;
+
+    overflow:hidden;
+
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+}
+
+.table thead{
+    background:#083b5c;
+    color:#fff;
+}
+
+.table th{
+    padding:18px 16px;
+    text-align:left;
+}
+
+.table td{
+    padding:16px;
+}
+
+.table tbody tr:nth-child(even){
+    background:#f8f9fa;
+}
+
+.table tbody tr:hover{
+    background:#eef4ff;
+}

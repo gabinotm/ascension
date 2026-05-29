@@ -119,4 +119,19 @@ class Libro
 
     return $stmt->fetch(PDO::FETCH_ASSOC);
 }
+public function buscarPorISBN($isbn)
+{
+    $sql = "SELECT *
+            FROM libros
+            WHERE isbn = :isbn";
+
+    $stmt = $this->db->prepare($sql);
+
+    $stmt->execute([
+        ':isbn' => $isbn
+    ]);
+
+    return $stmt->fetch(PDO::FETCH_ASSOC);
+}
+
 }

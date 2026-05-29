@@ -8,6 +8,8 @@ require_once '../app/controllers/LibroController.php';
 require_once '../app/controllers/DashboardController.php';
 require_once '../app/controllers/LectorController.php';
 require_once '../app/controllers/PrestamoController.php';
+require_once '../app/controllers/InventarioController.php';
+require_once '../app/controllers/ScannerController.php';
 
 $url = $_GET['url'] ?? 'dashboard';
 
@@ -109,12 +111,23 @@ switch ($url) {
         $controller->delete();
 
         break;
+
+    case 'prestamos':
+
+        $controller = new PrestamoController();
+        $controller->index();
+
+        break;
+
+
     case 'prestamos/create':
+
 
         $controller = new PrestamoController();
         $controller->create();
 
         break;
+
 
     case 'prestamos/store':
 
@@ -123,24 +136,73 @@ switch ($url) {
 
         break;
 
+
     case 'prestamos/edit':
+
 
         $controller = new PrestamoController();
         $controller->edit();
 
         break;
 
+
     case 'prestamos/update':
+
 
         $controller = new PrestamoController();
         $controller->update();
 
         break;
 
+    case 'prestamos/devolver':
+
+
+        $controller = new PrestamoController();
+        $controller->devolver();
+
+        break;
+
+
     case 'prestamos/delete':
+
 
         $controller = new PrestamoController();
         $controller->delete();
 
         break;
+        case 'inventario':
+
+    $controller = new InventarioController();
+    $controller->index();
+
+    break;
+
+
+
+case 'inventario/buscar':
+
+    $controller = new InventarioController();
+    $controller->buscar();
+
+    break;
+    
+
+case 'prestamos/buscar':
+
+    $controller = new PrestamoController();
+    $controller->buscar();
+
+    break;
+    case 'libros/buscar':
+
+    $controller = new LibroController();
+    $controller->buscar();
+
+    break;
+    case 'scanner':
+
+    $controller = new ScannerController();
+    $controller->index();
+
+    break;
 }

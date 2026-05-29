@@ -1,0 +1,21 @@
+@use 'base/variables' as *;
+@use 'base/typography' as *;
+
+@use 'components/buttons' as *;
+@use 'components/cards' as *;
+@use 'components/forms' as *;
+@use 'components/tables' as *;
+@use 'components/badges' as *;
+@use 'components/crud' as *;
+
+@use 'layout/layout' as *;
+@use 'layout/sidebar' as *;
+@use 'layout/navbar' as *;
+@use 'layout/dashboard' as *;
+
+@use 'modules/dashboard' as *;
+@use 'modules/prestamos' as *;
+@use 'modules/libros' as *;
+@use 'modules/lectores' as *;
+@use 'modules/inventario' as *;
+@use 'modules/scanner' as *;

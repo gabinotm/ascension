@@ -85,4 +85,29 @@ class LibroController
         header("Location: ?url=libros");
         exit;
     }
+ 
+
+public function buscar()
+{
+    $isbn = $_GET['isbn'] ?? '';
+
+    $libroModel = new Libro();
+
+    $libro = $libroModel->buscarPorISBN($isbn);
+
+    if(!$libro)
+    {
+        die(
+            "No se encontró ningún libro con ISBN: "
+            . htmlspecialchars($isbn)
+        );
+    }
+
+    header(
+        'Location: ?url=libros/edit&id=' .
+        $libro['id']
+    );
+
+    exit;
+}
 }

@@ -1,19 +1,27 @@
 <?php require '../app/views/layouts/header.php'; ?>
 <?php require '../app/views/layouts/sidebar.php'; ?>
 
-<div class="content">
+<div class="content crud-page lectores-page">
 
     <div class="page-header">
 
         <h1>Lectores</h1>
 
-        <a href="?url=lectores/create" class="btn">
+        <a href="?url=lectores/create" class="btn btn-warning">
             Nuevo Lector
         </a>
 
     </div>
+<div class="search-box">
 
-    <table>
+    <input
+        type="text"
+        id="buscar"
+        class="form-control"
+        placeholder="Buscar lector...">
+
+</div>
+    <table class="table">
 
         <thead>
 
@@ -48,15 +56,14 @@
                     <td><?= $lector['telefono'] ?></td>
                     <td>
 
-                        <a href="?url=lectores/edit&id=<?= $lector['id'] ?>">
+                        <a href="?url=lectores/edit&id=<?= $lector['id'] ?>" class="btn btn-primary">
                             Editar
                         </a>
 
-                        |
-
                         <a
                             href="?url=lectores/delete&id=<?= $lector['id'] ?>"
-                            onclick="return confirm('¿Eliminar este lector?')">
+                            onclick="return confirm('¿Eliminar este lector?')"
+                            class="btn btn-danger">
                             Eliminar
                         </a>
 

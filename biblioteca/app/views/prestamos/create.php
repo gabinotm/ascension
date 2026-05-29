@@ -1,79 +1,89 @@
 <?php require '../app/views/layouts/header.php'; ?>
+
 <?php require '../app/views/layouts/sidebar.php'; ?>
 
 <div class="content">
+    <div class="form-card">
+        <h1>Nuevo Préstamo</h1>
 
-<h1>Nuevo Préstamo</h1>
+        <form method="POST" action="?url=prestamos/store">
 
-<form action="?url=prestamos/store" method="POST">
+            <div>
 
-<select name="lector_id">
+                <label>Lector</label>
 
-<?php foreach($lectores as $lector): ?>
+                <select name="lector_id" class="form-control" required>
 
-<option value="<?= $lector['id'] ?>">
+                    <?php foreach($lectores as $lector): ?>
 
-<?= $lector['nombre'] ?>
-<?= $lector['apellido'] ?>
+                    <option value="<?= $lector['id'] ?>">
 
-</option>
+                        <?= $lector['nombre'] ?>
+                        <?= $lector['apellido'] ?>
 
-<?php endforeach; ?>
+                    </option>
 
-</select>
+                    <?php endforeach; ?>
 
-<br><br>
+                </select>
 
-<select name="libro_id">
+            </div>
 
-<?php foreach($libros as $libro): ?>
+            <br>
 
-<option value="<?= $libro['id'] ?>">
+            <div class="form-group">
 
-<?= $libro['titulo'] ?>
+                <label>Libro</label>
 
-</option>
+                <select name="libro_id" class="form-control" required>
 
-<?php endforeach; ?>
 
-</select>
+                    <?php foreach($libros as $libro): ?>
 
-<br><br>
+                    <option value="<?= $libro['id'] ?>" <?= $libroSeleccionado == $libro['id']
+? 'selected'
+: '' ?>>
 
-<input
-type="date"
-name="fecha_prestamo"
-required>
+                        <?= $libro['titulo'] ?>
 
-<br><br>
+                    </option>
 
-<input
-type="date"
-name="fecha_devolucion"
-required>
+                    <?php endforeach; ?>
 
-<br><br>
+                </select>
 
-<select name="estado">
+            </div>
 
-<option value="prestado">
-Prestado
-</option>
+            <br>
 
-<option value="devuelto">
-Devuelto
-</option>
+            <div class="form-group">
 
-</select>
+                <label>Fecha y hora préstamo</label>
 
-<br><br>
+                <input type="datetime-local" name="fecha_prestamo" required>
 
-<button class="btn">
-Guardar
-</button>
+            </div>
 
-</form>
+            <br>
 
+            <div class="form-group">
+
+                <label>Fecha y hora devolución</label>
+
+                <input type="datetime-local" name="fecha_devolucion" required>
+
+            </div>
+
+            <br>
+
+            <button type="submit" Class="btn btn-primary">
+
+                Guardar
+
+            </button>
+
+        </form>
+    </div>
 </div>
 
 <?php require '../app/views/layouts/footer.php'; ?>
