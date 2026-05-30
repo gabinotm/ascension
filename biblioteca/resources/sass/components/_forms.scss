@@ -59,3 +59,32 @@ input[type="date"].form-control,
 input[type="datetime-local"].form-control{
 cursor:pointer;
 }
+.busqueda-lista{
+    background:#fff;
+    border:1px solid #ddd;
+    border-radius:8px;
+    margin-top:5px;
+    max-height:250px;
+    overflow-y:auto;
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+}
+
+.busqueda-item{
+    padding:12px;
+    cursor:pointer;
+    border-bottom:1px solid #f1f1f1;
+}
+
+.busqueda-item:hover{
+    background:#eef5ff;
+}
+
+.scanner-field{
+    display:flex;
+    gap:10px;
+    align-items:center;
+}
+
+.scanner-field .form-control{
+    flex:1;
+}

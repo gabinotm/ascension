@@ -2,93 +2,201 @@
 <?php require '../app/views/layouts/sidebar.php'; ?>
 
 <div class="content">
-    
 
-<h1>Registrar Libro</h1>
+    <div class="form-card">
 
-<form action="?url=libros/store" method="POST">
+        <div class="page-header">
 
-    <p>
-        <label>ISBN</label><br>
-<div class="isbn-group">
+            <h1>Nuevo Libro</h1>
 
-        <input
-        type="text"
-        name="isbn"
-        id="isbn"
-        class="form-control"
-        required>
+            <a
+            href="?url=libros"
+            class="btn btn-danger">
 
-        <button
-        type="button"
-        id="btn-escanear"
-        class="btn btn-success">
+            Volver
 
-        📷 Escanear
+            </a>
 
-        </button>
+        </div>
+
+        <form
+        action="?url=libros/store"
+        method="POST">
+
+            <div class="form-group">
+
+                <label>ISBN</label>
+
+                <div class="isbn-group">
+
+                    <input
+                    type="text"
+                    name="isbn"
+                    id="isbn"
+                    class="form-control"
+                    required>
+
+                    <button
+                    type="button"
+                    id="btn-escanear"
+                    class="btn btn-success">
+
+                    📷 Escanear
+
+                    </button>
+
+                </div>
+
+            </div>
+
+            <div class="form-group">
+
+                <label>Título</label>
+
+                <input
+                type="text"
+                name="titulo"
+                class="form-control"
+                required>
+
+            </div>
+
+            <div class="form-group">
+
+                <label>Autor</label>
+
+                <input
+                type="text"
+                name="autor"
+                class="form-control"
+                required>
+
+            </div>
+
+            <div class="form-group">
+
+                <label>Cantidad Total</label>
+
+                <input
+                type="number"
+                name="cantidad_total"
+                class="form-control"
+                min="1"
+                value="1"
+                required>
+
+            </div>
+
+            <div class="form-group">
+
+                <label>Cantidad Disponible</label>
+
+                <input
+                type="number"
+                name="cantidad_disponible"
+                class="form-control"
+                min="0"
+                value="1"
+                required>
+
+            </div>
+
+            <button
+            type="submit"
+            class="btn btn-primary">
+
+            Guardar Libro
+
+            </button>
+
+        </form>
 
     </div>
-        <input
-            type="text"
-            name="isbn"
-            required
-        >
-    </p>
 
-    <p>
-        <label>Título</label><br>
+</div>
 
-        <input
-            type="text"
-            name="titulo"
-            required
-        >
-    </p>
+<!-- MODAL ESCANER -->
 
-    <p>
-        <label>Autor</label><br>
+<div id="modalScanner" class="modal-scanner">
+    <div class="modal-content">
+        <h3>Escanear ISBN</h3>
+        <div id="reader"></div>
 
-        <input
-            type="text"
-            name="autor"
-            required
-        >
-    </p>
+        <button
+            type="button"
+            id="cerrarScanner"
+            class="btn btn-danger">
+            Cerrar
+        </button>
+    </div>
+</div>
 
-    <p>
-        <label>Cantidad Total</label><br>
+<script src="https://unpkg.com/html5-qrcode"></script>
 
-        <input
-            type="number"
-            name="cantidad_total"
-            required
-        >
-    </p>
+<script>
 
-    <p>
-        <label>Cantidad Disponible</label><br>
+const modal =
+document.getElementById('modalScanner');
 
-        <input
-            type="number"
-            name="cantidad_disponible"
-            required
-        >
-    </p>
+const btnEscanear =
+document.getElementById('btn-escanear');
 
-    <button type="submit">
+const cerrarScanner =
+document.getElementById('cerrarScanner');
 
-        Guardar Libro
+let html5QrCode;
 
-    </button>
+btnEscanear.addEventListener('click', function(){
 
-</form>
+    modal.style.display = 'flex';
 
-<p>
-    <a href="?url=libros">
-        Volver
-    </a>
-</p>
+    html5QrCode = new Html5Qrcode("reader");
 
-</body>
-</html>
+    Html5Qrcode.getCameras().then(devices => {
+
+        if(devices && devices.length){
+
+            html5QrCode.start(
+
+                devices[0].id,
+
+                {
+                    fps:10,
+                    qrbox:250
+                },
+
+                (decodedText) => {
+
+                    document
+                    .getElementById('isbn')
+                    .value = decodedText;
+
+                    html5QrCode.stop();
+
+                    modal.style.display = 'none';
+
+                }
+
+            );
+
+        }
+
+    });
+
+});
+
+cerrarScanner.addEventListener('click', function(){
+
+    if(html5QrCode){
+
+        html5QrCode.stop();
+
+    }
+
+    modal.style.display = 'none';
+
+});
+
+</script>
+
+<?php require '../app/views/layouts/footer.php'; ?>
